@@ -11,3 +11,7 @@ This is my first professional GitHub repository.
 - Learn version control
 - Understand GitHub workflows
 - Build professional open-source habits
+
+## Branch Practice
+This change was made in a feature branch to practice
+professional Git workflows using pull requests.
