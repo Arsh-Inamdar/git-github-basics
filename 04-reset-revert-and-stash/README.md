@@ -73,8 +73,9 @@ git revert <commit-id>
 ### Example
 
 ```bash
-git revert 2adaad1
+git revert <commit-id>
 ```
+**Note:** Replace `<commit-id>` with the actual commit hash you want to reverse. Review the commit before running the command.
 
 **What it does:**
 - Identifies the changes introduced by the specified commit.
