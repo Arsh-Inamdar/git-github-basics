@@ -73,7 +73,7 @@ git revert <commit-id>
 ### Example
 
 ```bash
-git revert 1aef4c4
+git revert 2adaad1
 ```
 
 **What it does:**
