@@ -125,3 +125,9 @@ git stash clear
 ## Conclusion
 
 Git stash helps developers manage unfinished work without creating unnecessary commits. Understanding `stash`, `apply`, `pop`, and `-u` makes branch switching and daily Git workflows easier.
+
+---
+
+**Previous Guide:** [04 — Git Reset and Revert](../04-git-reset-and-revert/README.md)
+
+**Next Guide:** 06 — Git Merge Strategies and Merge Conflicts (Coming Soon)

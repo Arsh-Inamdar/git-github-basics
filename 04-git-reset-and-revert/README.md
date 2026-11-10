@@ -135,3 +135,9 @@ Git reset and git revert are important tools for managing project history.
 Reset is useful for correcting local commit history, while revert is useful for safely reversing changes through a new commit.
 
 Practising both commands helps developers understand Git's version-control workflow and collaborate more effectively.
+
+---
+
+**Previous Guide:** [03 — Branching and Pull Requests](../03-branching-and-pull-requests/README.md)
+
+**Next Guide:** [05 — Git Stash](../05-git-stash/README.md)
