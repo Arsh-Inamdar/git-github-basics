@@ -33,7 +33,7 @@ The repository is organized into individual guides, with each guide focusing on 
 | 03 | [Branching and Pull Requests](03-branching-and-pull-requests/README.md) | Branch management, feature branches, pull requests, and merging |
 | 04 | [Git Reset and Revert](04-git-reset-and-revert/README.md) | Reset modes, reverting commits, and managing Git history |
 | 05 | [Git Stash](05-git-stash/README.md) | Temporarily saving, inspecting, applying, and restoring changes |
-| 06 | Git Merge Strategies and Merge Conflicts | Understanding merge methods and resolving conflicts — Coming Soon |
+| 06 | [Git Merge Strategies and Conflict Resolution](06-git-merge-strategies-and-conflicts/README.md) | Fast-forward, three-way, no-fast-forward, squash merges, and conflict resolution |
 
 ## Topics Covered
 
