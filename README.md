@@ -34,6 +34,8 @@ The repository is organized into individual guides, with each guide focusing on 
 | 04 | [Git Reset and Revert](04-git-reset-and-revert/README.md) | Reset modes, reverting commits, and managing Git history |
 | 05 | [Git Stash](05-git-stash/README.md) | Temporarily saving, inspecting, applying, and restoring changes |
 | 06 | [Git Merge Strategies and Conflict Resolution](06-git-merge-strategies-and-conflicts/README.md) | Fast-forward, three-way, no-fast-forward, squash merges, and conflict resolution |
+| 07 | [Git Cherry-pick and Rebase](07-git-cherry-pick-and-rebase/README.md) | Applying selected commits, basic rebase, interactive rebase, and conflict resolution |
+| 08 | [Git Tags](08-git-tags/README.md) | Lightweight and annotated tags, tag management, remote tags, and semantic versioning |
 
 ## Topics Covered
 
@@ -59,6 +61,21 @@ The repository is organized into individual guides, with each guide focusing on 
 - Remote branches
 - Pull requests
 - Code review and merging
+
+### Advanced Git Workflows
+
+- Cherry-picking selected commits
+- Cherry-pick conflict resolution
+- Basic and interactive rebase
+- Rebase conflict resolution
+- Reordering, squashing, rewording, and editing commits
+
+### Git Tags and Versioning
+
+- Lightweight and annotated tags
+- Creating and inspecting tags
+- Local and remote tag management
+- Semantic versioning
 
 ### Managing Git History
 - `git reset --soft`
@@ -88,12 +105,10 @@ My learning process focuses on practical implementation:
 
 This is an evolving learning project. Future improvements will include:
 
-- Advanced Git workflows.
-- Merge strategies and conflict resolution.
-- Additional practical exercises.
-- Troubleshooting examples.
+- More advanced Git workflows and troubleshooting scenarios.
+- More practical exercises and real-world scenarios.
 - Command reference guides.
-- Real-world GitHub collaboration practices.
+- GitHub collaboration and release management practices.
 
 The objective is to build a structured and useful Git and GitHub reference while developing practical version control skills.
 
