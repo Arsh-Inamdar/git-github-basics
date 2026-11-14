@@ -36,6 +36,7 @@ The repository is organized into individual guides, with each guide focusing on 
 | 06 | [Git Merge Strategies and Conflict Resolution](06-git-merge-strategies-and-conflicts/README.md) | Fast-forward, three-way, no-fast-forward, squash merges, and conflict resolution |
 | 07 | [Git Cherry-pick and Rebase](07-git-cherry-pick-and-rebase/README.md) | Applying selected commits, basic rebase, interactive rebase, and conflict resolution |
 | 08 | [Git Tags](08-git-tags/README.md) | Lightweight and annotated tags, tag management, remote tags, and semantic versioning |
+| 09 | [Advanced Git Inspection and Recovery](09-advanced-git-inspection-and-recovery/README.md) | Inspecting commits, comparing changes, tracing file history, reflog, and recovering Git objects |
 
 ## Topics Covered
 
