@@ -329,3 +329,9 @@ Git merge strategies help developers integrate changes while maintaining a relia
 Understanding fast-forward, three-way, no-fast-forward, and squash merging allows developers to choose the right integration approach.
 Learning to resolve merge conflicts is an essential skill for individual development and professional team collaboration.
 **Keep practising these workflows to become confident with Git branching and merging.**
+
+---
+
+**Previous Guide:** [05 — Git Stash](../05-git-stash/README.md)
+
+**Next Guide:** [07 — Git Cherry-pick and Rebase](../07-git-cherry-pick-and-rebase/README.md)
