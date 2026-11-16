@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/git-github-banner.png"
+       alt="Git and GitHub Basics - From Fundamentals to Advanced Workflows"
+       width="100%">
+</p>
 # Git & GitHub Basics
 
 A practical, beginner-friendly learning repository documenting my journey from Git fundamentals to professional Git and GitHub workflows.
