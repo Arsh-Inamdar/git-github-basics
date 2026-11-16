@@ -47,6 +47,21 @@ To follow the practical exercises in this repository, you should have:
 
 **Note:** No advanced Git knowledge is required. The guides are structured to help beginners progress step by step.
 
+## 🚀 Getting Started
+
+You can explore the learning guides directly on GitHub or clone this repository to your local system.
+
+### Clone the Repository
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/Arsh-Inamdar/git-github-basics.git
+cd git-github-basics
+
+
+Once cloned, open the folder in your preferred code editor and start exploring the numbered learning guides.
+
 ## Learning Roadmap
 
 The repository is organized into individual guides, with each guide focusing on a specific Git or GitHub topic.
