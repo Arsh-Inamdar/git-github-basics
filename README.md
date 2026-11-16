@@ -155,4 +155,10 @@ The objective is to build a structured and useful Git and GitHub reference while
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 **Learning through practice. Improving through consistency.**
