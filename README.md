@@ -35,6 +35,18 @@ This repository is continuously updated as I explore new Git concepts, practice 
 - Develop professional version control habits.
 - Build a strong foundation for real-world software development.
 
+## 📋 Prerequisites
+
+To follow the practical exercises in this repository, you should have:
+
+- A computer running Windows, macOS, or Linux.
+- Git installed on your system.
+- A GitHub account.
+- A terminal or command-line application.
+- A code editor such as Visual Studio Code.
+
+**Note:** No advanced Git knowledge is required. The guides are structured to help beginners progress step by step.
+
 ## Learning Roadmap
 
 The repository is organized into individual guides, with each guide focusing on a specific Git or GitHub topic.
