@@ -17,6 +17,14 @@ Instead of learning commands only through theory, I document concepts, execute c
 
 **Maintained by:** Arsh Inamdar
 
+## 📌 Project Status
+
+**Status:** Actively maintained
+
+This repository is continuously updated as I explore new Git concepts, practice advanced workflows, and document practical learning experiences.
+
+**Current Coverage:** 9 structured learning guides, from Git fundamentals to advanced inspection and recovery.
+
 ## Learning Goals
 
 - Understand version control and Git fundamentals.
