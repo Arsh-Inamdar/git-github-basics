@@ -58,7 +58,7 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/Arsh-Inamdar/git-github-basics.git
 cd git-github-basics
-
+```
 
 Once cloned, open the folder in your preferred code editor and start exploring the numbered learning guides.
 
