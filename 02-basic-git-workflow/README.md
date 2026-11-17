@@ -367,6 +367,10 @@ The changes are now uploaded to the remote repository.
 
 ---
 
-**Previous Guide:** [01 — Git and GitHub Fundamentals](../01-git-and-github-fundamentals/README.md)
+## Navigation
 
-**Next Guide:** [03 — Branching and Pull Requests](../03-branching-and-pull-requests/README.md)
+**Previous Guide:** [Git and GitHub Fundamentals](../01-git-and-github-fundamentals/README.md)
+
+**Next Guide:** [Branching and Pull Requests](../03-branching-and-pull-requests/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

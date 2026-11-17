@@ -323,5 +323,8 @@ is genuinely useful.
 
 ## Navigation
 
-- **Previous:** [10 - Git Hooks and Automation](../10-git-hooks-and-automation/README.md)
-- **Next:** [12 - GitHub Issues and Projects](../12-github-issues-and-projects/README.md)
+**Previous Guide:** [Git Hooks and Automation](../10-git-hooks-and-automation/README.md)
+
+**Next Guide:** [GitHub Issues and Projects](../12-github-issues-and-projects/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

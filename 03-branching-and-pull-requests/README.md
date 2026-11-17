@@ -349,6 +349,10 @@ The feature branch is now removed locally, and stale remote-tracking references 
 
 ---
 
-**Previous Guide:** [02 — Basic Git Workflow](../02-basic-git-workflow/README.md)
+## Navigation
 
-**Next Guide:** [04 — Git Reset and Revert](../04-git-reset-and-revert/README.md)
+**Previous Guide:** [Basic Git Workflow](../02-basic-git-workflow/README.md)
+
+**Next Guide:** [Git Reset and Revert](../04-git-reset-and-revert/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

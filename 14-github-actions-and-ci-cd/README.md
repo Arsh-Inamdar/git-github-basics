@@ -1,6 +1,5 @@
 # GitHub Actions and CI/CD
 
-[← Previous: GitHub Discussions and Collaboration](../13-github-discussions-and-collaboration/README.md) | [Next: Releases, Security and Open Source →](../15-releases-security-and-open-source/README.md)
 
 ## Introduction
 
@@ -553,4 +552,10 @@ The practical documentation validation workflow demonstrates how GitHub Actions 
 
 ---
 
-[← Previous: GitHub Discussions and Collaboration](../13-github-discussions-and-collaboration/README.md) | [Next: Releases, Security and Open Source →](../15-releases-security-and-open-source/README.md)
+## Navigation
+
+**Previous Guide:** [GitHub Discussions and Collaboration](../13-github-discussions-and-collaboration/README.md)
+
+**Next Guide:** [Releases, Security and Open Source](../15-releases-security-and-open-source/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

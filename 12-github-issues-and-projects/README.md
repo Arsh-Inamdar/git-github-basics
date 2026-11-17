@@ -1,6 +1,5 @@
 # GitHub Issues and Projects
 
-[← Previous: Git Worktrees and Submodules](../11-git-worktrees-and-submodules/README.md) | [Next: GitHub Discussions and Collaboration →](../13-github-discussions-and-collaboration/README.md)
 
 ## Introduction
 
@@ -465,4 +464,10 @@ Understanding these tools is essential for contributing effectively to professio
 
 ---
 
-[← Previous: Git Worktrees and Submodules](../11-git-worktrees-and-submodules/README.md) | [Next: GitHub Discussions and Collaboration →](../13-github-discussions-and-collaboration/README.md)
+## Navigation
+
+**Previous Guide:** [Git Worktrees and Submodules](../11-git-worktrees-and-submodules/README.md)
+
+**Next Guide:** [GitHub Discussions and Collaboration](../13-github-discussions-and-collaboration/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

@@ -1,6 +1,5 @@
 # Releases, Security and Open Source
 
-[← Previous: GitHub Actions and CI/CD](../14-github-actions-and-ci-cd/README.md) | [Next: Professional Git Workflow →](../16-professional-git-workflow/README.md)
 
 ## 1. Introduction
 
@@ -858,4 +857,10 @@ Your repository should contain a documented process for reporting security vulne
 
 ---
 
-[← Previous: GitHub Actions and CI/CD](../14-github-actions-and-ci-cd/README.md) | [Next: Professional Git Workflow →](../16-professional-git-workflow/README.md)
+## Navigation
+
+**Previous Guide:** [GitHub Actions and CI/CD](../14-github-actions-and-ci-cd/README.md)
+
+**Next Guide:** [Professional Git Workflow](../16-professional-git-workflow/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

@@ -438,6 +438,12 @@ Understanding tag creation, inspection, management, and remote sharing helps dev
 
 **Learning through practice. Improving through consistency.**
 
+---
+
+## Navigation
+
 **Previous Guide:** [Git Cherry-pick and Rebase](../07-git-cherry-pick-and-rebase/README.md)
 
-**Next Guide:** [09 — Advanced Git Inspection and Recovery](../09-advanced-git-inspection-and-recovery/README.md)
+**Next Guide:** [Advanced Git Inspection and Recovery](../09-advanced-git-inspection-and-recovery/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

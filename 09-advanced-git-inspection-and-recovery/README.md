@@ -386,5 +386,8 @@ Learning these commands builds confidence when managing complex Git workflows, t
 
 ## Navigation
 
-- **Previous:** [08 - Git Tags](../08-git-tags/README.md)
-- **Next:** [10 - Git Hooks and Automation](../10-git-hooks-and-automation/README.md)
+**Previous Guide:** [Git Tags](../08-git-tags/README.md)
+
+**Next Guide:** [Git Hooks and Automation](../10-git-hooks-and-automation/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

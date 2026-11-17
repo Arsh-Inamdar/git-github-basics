@@ -294,4 +294,10 @@ directory.
 
 ---
 
+## Navigation
+
+**Previous Guide:** [Advanced Git Inspection and Recovery](../09-advanced-git-inspection-and-recovery/README.md)
+
 **Next Guide:** [Git Worktrees and Submodules](../11-git-worktrees-and-submodules/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

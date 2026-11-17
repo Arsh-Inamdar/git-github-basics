@@ -138,6 +138,10 @@ Practising both commands helps developers understand Git's version-control workf
 
 ---
 
-**Previous Guide:** [03 — Branching and Pull Requests](../03-branching-and-pull-requests/README.md)
+## Navigation
 
-**Next Guide:** [05 — Git Stash](../05-git-stash/README.md)
+**Previous Guide:** [Branching and Pull Requests](../03-branching-and-pull-requests/README.md)
+
+**Next Guide:** [Git Stash](../05-git-stash/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

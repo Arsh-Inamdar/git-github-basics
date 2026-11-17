@@ -332,6 +332,10 @@ Learning to resolve merge conflicts is an essential skill for individual develop
 
 ---
 
-**Previous Guide:** [05 — Git Stash](../05-git-stash/README.md)
+## Navigation
 
-**Next Guide:** [07 — Git Cherry-pick and Rebase](../07-git-cherry-pick-and-rebase/README.md)
+**Previous Guide:** [Git Stash](../05-git-stash/README.md)
+
+**Next Guide:** [Git Cherry-pick and Rebase](../07-git-cherry-pick-and-rebase/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

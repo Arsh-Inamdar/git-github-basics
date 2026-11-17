@@ -276,4 +276,8 @@ Example:
 
 ---
 
-**Next Guide:** [02 — Basic Git Workflow](../02-basic-git-workflow/README.md)
+## Navigation
+
+**Next Guide:** [Basic Git Workflow](../02-basic-git-workflow/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

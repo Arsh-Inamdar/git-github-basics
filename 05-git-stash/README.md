@@ -128,6 +128,10 @@ Git stash helps developers manage unfinished work without creating unnecessary c
 
 ---
 
-**Previous Guide:** [04 — Git Reset and Revert](../04-git-reset-and-revert/README.md)
+## Navigation
 
-**Next Guide:** [06 — Git Merge Strategies and Conflict Resolution](../06-git-merge-strategies-and-conflicts/README.md)
+**Previous Guide:** [Git Reset and Revert](../04-git-reset-and-revert/README.md)
+
+**Next Guide:** [Git Merge Strategies and Conflict Resolution](../06-git-merge-strategies-and-conflicts/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

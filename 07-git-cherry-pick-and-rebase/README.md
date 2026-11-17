@@ -511,6 +511,12 @@ Understanding these operations improves confidence when working with feature bra
 
 **Learning through practice. Improving through consistency.**
 
+---
+
+## Navigation
+
 **Previous Guide:** [Git Merge Strategies and Conflict Resolution](../06-git-merge-strategies-and-conflicts/README.md)
 
 **Next Guide:** [Git Tags](../08-git-tags/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)

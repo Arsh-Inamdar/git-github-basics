@@ -1,6 +1,5 @@
 # Professional Git Workflow
 
-[← Previous: Releases, Security and Open Source](../15-releases-security-and-open-source/README.md)
 
 ## 1. Introduction
 
@@ -1198,3 +1197,11 @@ This exercise is intended for a suitable practice repository. Do not run it dire
 **Congratulations!** You have reached the final guide in this Git and GitHub Mastery learning repository.
 
 The goal is not simply to memorize Git commands. It is to understand when and why to use them, work safely with others, and maintain a professional development workflow.
+
+---
+
+## Navigation
+
+**Previous Guide:** [Releases, Security and Open Source](../15-releases-security-and-open-source/README.md)
+
+**Back to Main README:** [Git & GitHub Mastery](../README.md)
