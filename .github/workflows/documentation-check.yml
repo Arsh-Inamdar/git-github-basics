@@ -1,0 +1,46 @@
+name: Documentation Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate Guide Documentation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check main README
+        run: test -s README.md
+
+      - name: Check all 16 guide files
+        run: |
+          for number in $(seq -w 1 16); do
+            guide=$(find . -maxdepth 2 -type f -path "./${number}-*/README.md" -print -quit)
+
+            if [ -z "$guide" ]; then
+              echo "Missing README for guide $number"
+              exit 1
+            fi
+
+            if [ ! -s "$guide" ]; then
+              echo "Empty README: $guide"
+              exit 1
+            fi
+
+            echo "Verified: $guide"
+          done
+
+      - name: Validation completed
+        run: echo "All 16 guide README files are present and non-empty."
