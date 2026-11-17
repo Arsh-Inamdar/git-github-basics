@@ -1,6 +1,6 @@
 # GitHub Discussions and Collaboration
 
-[← Previous: GitHub Issues and Projects](../12-github-issues-and-projects/README.md) | [Next: GitHub Actions and CI/CD →](../14-github-actions-and-cicd/README.md)
+[← Previous: GitHub Issues and Projects](../12-github-issues-and-projects/README.md) | [Next: GitHub Actions and CI/CD →](../14-github-actions-and-ci-cd/README.md)
 
 ## Introduction
 
@@ -358,4 +358,4 @@ Understanding Discussions, Issues, Pull Requests, contribution guidelines, and r
 
 ---
 
-[← Previous: GitHub Issues and Projects](../12-github-issues-and-projects/README.md) | [Next: GitHub Actions and CI/CD →](../14-github-actions-and-cicd/README.md)
+[← Previous: GitHub Issues and Projects](../12-github-issues-and-projects/README.md) | [Next: GitHub Actions and CI/CD →](../14-github-actions-and-ci-cd/README.md)
