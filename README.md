@@ -77,6 +77,13 @@ The repository is organized into individual guides, with each guide focusing on 
 | 07 | [Git Cherry-pick and Rebase](07-git-cherry-pick-and-rebase/README.md) | Applying selected commits, basic rebase, interactive rebase, and conflict resolution |
 | 08 | [Git Tags](08-git-tags/README.md) | Lightweight and annotated tags, tag management, remote tags, and semantic versioning |
 | 09 | [Advanced Git Inspection and Recovery](09-advanced-git-inspection-and-recovery/README.md) | Inspecting commits, comparing changes, tracing file history, reflog, and recovering Git objects |
+| 10 | [Git Hooks and Automation](10-git-hooks-and-automation/README.md) | Git hooks, client-side hooks, automation, and custom workflows |
+| 11 | [Git Worktrees and Submodules](11-git-worktrees-and-submodules/README.md) | Managing multiple working trees and integrating external repositories |
+| 12 | [GitHub Issues and Projects](12-github-issues-and-projects/README.md) | Issue tracking, labels, milestones, project boards, and task management |
+| 13 | [GitHub Discussions and Collaboration](13-github-discussions-and-collaboration/README.md) | Discussions, collaboration practices, community engagement, and teamwork |
+| 14 | [GitHub Actions and CI/CD](14-github-actions-and-ci-cd/README.md) | Workflows, events, jobs, runners, automation, and continuous integration |
+| 15 | [Releases, Security and Open Source](15-releases-security-and-open-source/README.md) | Releases, versioning, security features, and open-source contributions |
+| 16 | [Professional Git Workflow](16-professional-git-workflow/README.md) | End-to-end professional Git and GitHub workflow through a practical project |
 
 ## Topics Covered
 
