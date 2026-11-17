@@ -223,6 +223,80 @@ flowchart TD
     I --> J["Delete Feature Branch"]
 ```
 
+### Practical Example: Feature Branch Workflow
+
+Follow these steps when implementing a documentation improvement.
+
+**1. Start from the latest main branch**
+
+```bash
+git switch main
+git pull origin main
+```
+
+**2. Create a dedicated feature branch**
+
+```bash
+git switch -c docs/add-branching-example
+```
+
+**3. Make your changes**
+
+Edit the required documentation or project files.
+
+Check your changes:
+
+```bash
+git status
+git diff
+```
+
+**4. Stage and commit your changes**
+
+```bash
+git add path/to/changed-file
+git commit -m "docs: add branching workflow example"
+```
+
+Replace path/to/changed-file with the actual path of the file you modified.
+
+**5. Push the feature branch**
+
+```bash
+git push -u origin docs/add-branching-example
+```
+
+**6. Create a pull request**
+
+Open GitHub and create a pull request:
+
+- Base branch: `main`
+- Compare branch: `docs/add-branching-example`
+- Describe the changes made.
+- Reference the related issue using `Closes #123 (replace 123 with the actual issue number).` in the pull request description.
+
+**7. Review and merge**
+
+Review the changes, resolve any feedback, and merge the pull request into `main`.
+
+**8. Update the local main branch**
+
+```bash
+git switch main
+git pull origin main
+```
+
+**9. Clean up the feature branch**
+
+```bash
+git branch -d docs/add-branching-example
+git fetch --prune
+```
+
+The feature branch is now removed locally, and stale remote-tracking references are cleaned up.
+
+**Important:** Always confirm that the pull request has been merged before deleting the local feature branch.
+
 ## 11. Common Mistakes
 
 | Mistake | Solution |
