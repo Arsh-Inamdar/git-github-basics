@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Guides-16-blue" alt="16 Guides">
   <img src="https://img.shields.io/badge/Documentation-Complete-success" alt="Documentation Complete">
+  <a href="https://github.com/Arsh-Inamdar/git-github-basics/actions/workflows/documentation-check.yml">
+    <img src="https://github.com/Arsh-Inamdar/git-github-basics/actions/workflows/documentation-check.yml/badge.svg" alt="Documentation Check">
+  </a>
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
 </p>
 
